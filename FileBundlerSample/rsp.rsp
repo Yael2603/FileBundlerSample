@@ -1,0 +1,1 @@
+bundle --language all --output "Y:\Groups\Group3\יעלי יעקבזון\פרקטיקוד\1\FileBundlerSample\rsp.rsp" --sort name --remove-empty-lines --author "y"
